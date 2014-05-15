@@ -44,8 +44,19 @@ int main()
 Output:
 
 Please enter an integer you would like to count to: 14
+Not able to divide by 7 or 12.
+Not able to divide by 7 or 12.
+Not able to divide by 7 or 12.
+Not able to divide by 7 or 12.
+Not able to divide by 7 or 12.
+Not able to divide by 7 or 12.
 BIZ
+Not able to divide by 7 or 12.
+Not able to divide by 7 or 12.
+Not able to divide by 7 or 12.
+Not able to divide by 7 or 12.
 BUZ
+Not able to divide by 7 or 12.
 BIZ
 Press any key to continue . . .
 */
